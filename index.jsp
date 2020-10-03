@@ -23,7 +23,7 @@
             <%@include file="/WEB-INF/header.jsp" %>
             <table>
                 <tr style="background-color: black">
-                    <th style="width: 40px;">Contry Flag</th>
+                    <th style="width: 40px;">Country Flag</th>
                     <th style="width: 100px;">Name</th>
                     <th style="width: 200px;">Full Name</th>
                     <th style="width: 80px;">Capital</th>
