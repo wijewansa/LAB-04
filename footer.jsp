@@ -9,10 +9,11 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Footer</title>
     </head>
     <body>
         <hr>
         Listing Date <%=(new java.util.Date()).toString() %>
+<p>Refresh to Update the time</p>
     </body>
 </html>
